@@ -1,4 +1,4 @@
 {
-  "rewrites":[{"sorce":"/(.*)","destination":"/a1.html"}
+  "rewrites":[{"sorce":"/(.*)","destination":"/"}
   ]
 }
